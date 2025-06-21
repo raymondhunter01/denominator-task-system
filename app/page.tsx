@@ -1,5 +1,5 @@
-import "./globals.css";
 "use client";
+import "./globals.css";
 
 import { useState } from "react";
 import { Textarea } from "@/components/ui/textarea";
